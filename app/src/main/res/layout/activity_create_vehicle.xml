@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_create_vehicle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rocha.arthur.gerenciarveiculo.activities.CreateVehicleActivity"
+    android:focusableInTouchMode="true"
+    android:background="@android:color/white">
+
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/spBrand"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"></Spinner>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/spModel"
+        android:layout_marginBottom="5dp"></Spinner>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite a Placa"
+        android:inputType="text"
+        android:id="@+id/etBoard"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite o Ano"
+        android:inputType="number"
+        android:id="@+id/etYear"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salvar"
+        android:id="@+id/btnSave"/>
+
+</LinearLayout>

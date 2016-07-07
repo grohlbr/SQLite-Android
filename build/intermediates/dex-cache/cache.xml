@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="9cd19328a2a84959e62103794941b3a1e9e1d5a3">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af5e8e1145d188e6deb8e730b28dd514802775d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_a8556580899a84043d9b59eb0f32361cc1f7a373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8c86a0c2dea4f1cb28b8a6d96b816de3d5a65850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_ae8052ffe014d6b23867fcb37830971ef9cd1327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="4282006f32f15cb7940b32bf54f1d8b583c590af">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fae466269c2f8d92810261539a5815b242783127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fa2706e857c3686ebe14ec3f753bf0d2eb46deab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_f157a6e5e076a7c18dcf2d1735041ca62cdabe6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_42434ab278cdb6374848a7b5277ad2a89d0b7953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_b6073299ca4c6ff32d3a9a7a26e6c248c5f37b34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_e0f66626799f6b020ed4e5a207b7249f8d41a8d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_33f25ffe0242e1d12449735b456aafb57ad97524/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f01b59febf83e366147831f1c14c6398e1929e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arthur/Downloads/Android Studio.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="29e762ef46d0cb2b648eb3d25eeb2b29853579fe">
+        <dex dex="/Users/arthur/Desktop/GerenciarVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_809b9ebc5dccb359d0d46e52dd0f5370c50e06d0/classes.dex" />
+    </item>
+
+</items>
